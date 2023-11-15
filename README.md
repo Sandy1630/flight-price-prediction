@@ -13,7 +13,7 @@ This project aims to predict flight ticket prices using machine learning techniq
 
 ## Introduction
 
-The goal of this project is to develop a machine learning model capable of accurately predicting flight ticket prices based on features such as airline, source, destination, departure time, and more. The model is trained on historical flight data to make predictions on new flight ticket prices.
+The goal of this project is to develop a machine learning model capable of accurately predicting flight ticket prices based on features such as airline, source, distance, duration time, and more. The model is trained on historical flight data to make predictions on new flight ticket prices.
 
 ## Features
 
