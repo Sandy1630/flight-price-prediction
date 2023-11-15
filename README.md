@@ -26,7 +26,7 @@ The goal of this project is to develop a machine learning model capable of accur
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/flight-ticket-price-prediction.git
+    git clone [https://github.com/your_username/flight-ticket-price-prediction.git](https://github.com/Sandy1630/flight-price-prediction.git)
     ```
 
 2. Install the required dependencies:
